@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/nitesh-kumar-datacom/storefront-datacom/
+    type: markup
+
+folders:
+  /products/: /products/default
